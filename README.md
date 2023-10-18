@@ -17,7 +17,7 @@ With a design that mirrors a combination of a slot machine and a Polaroid camera
 
 As a nod to the unexpected nature of AI creations, we've incorporated a Polaroid development delay of one second, building anticipation as users eagerly await their results. This delay not only adds an element of surprise but also contributes to the fun, whimsical vibe we want to convey. Once the Lego emoji face is generated, a charming Lego family pops up, encouraging users to explore and experiment with the endless possibilities of our design.
 
-![interface|320x271,50%](https://i.imgur.com/aLB76bO.png=120x80)
+![interface|120x80,50%](https://i.imgur.com/aLB76bO.png=120x80)
 
 **Interface Video:**
 https://www.youtube.com/watch?v=DHJwchAW9Nw
