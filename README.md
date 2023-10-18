@@ -45,11 +45,11 @@ And the following pictures are the new faces we encode from the latent space:
 
 Restruction:
 ![reconstruction](https://i.imgur.com/5UAcMcO.png)
-Though the results are not very good, but we can still generate the outputs that has most of features of original inputs.
+Though the results are not very good, but we can still generate the outputs that have most of features of original inputs.
 
 # Morphing
 After training the VAE of lego faces and emojis, we randomly choose 2 spots from lego faces and emojis in latent space and plot 10 new faces on the the line connecting these two points. Creating a morphing result between two faces.
 ![morphing](https://i.imgur.com/z0oLSh7.png)
 
 # Conclusion
-
+As you can see, the results of lego faces and emojis morhphing in VAE mode are not very satisfactory. Although most of the reconstructions of Lego faces and emojis are decent, the images obtained after the encoding and decoding process are not very clear. Therefore, the expression transformation for Lego characters also fails to achieve high-quality results.
