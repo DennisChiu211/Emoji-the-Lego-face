@@ -19,8 +19,10 @@ When we are selecting various options, a scrollable menu will provide a simple a
 In the first stage, we decided to use Variational Autoencoders as the ML model for training. We input the Lego face and emoji datasets into the same category for encoding, bringing both types of data into a shared latent space.
 
 Lego Face dataset:
+https://github.com/iechevarria/lego-face-VAE/blob/master/dataset.zip
+
 
 Emoji dataset:
 https://www.kaggle.com/datasets/subinium/emojiimage-dataset/data
-![Alt text] (https://imgur.com/MR0ENcr)
+![plot] (https://imgur.com/MR0ENcr)
 
