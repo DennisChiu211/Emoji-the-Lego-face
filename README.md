@@ -70,6 +70,15 @@ In the next stage, we will try to use stable diffusion to replace VAE and to see
 
 Our future intuitive interface ensures that anyone, regardless of their tech-savviness, can effortlessly create impressive Lego emoji transition photos, eliminating the need for cumbersome text descriptions and providing a more intuitive and straightforward means of expression.
 
+**Extended Research:**
+
+We introduced our initial designs to some users and allowed them to try out our small machine. We inquired about their feelings and engaged in ideation for future plans together. As designers, we often find that our creative perspectives gradually become limited. However, from the users' standpoint, we might gain more inspiration. Indeed, through discussions and small-scale testing experiences, we ultimately solidified the direction for our future design.
+
+In the next project, we will broaden our design to multiple application domains. When we perform photo editing after taking pictures, we often notice that many photos don't have perfect expressions. We aim to extend our design to this level, enabling people to change photo expressions by uploading emojis. This way, they can create expressive and creative photos and group pictures, while also addressing any expression issues.
+
+We will reference the features of stable diffusion and the code from mage.space to build our new design. Since mage.space already has photo-editing capabilities, this functionality and coding align with our creative concept, offering significant potential for our creation.
+
+
 
 
 
