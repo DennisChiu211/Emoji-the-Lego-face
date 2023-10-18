@@ -60,9 +60,11 @@ As you can see, the results of lego faces and emojis morhphing in VAE mode are n
 
 # Future outlook
 Machine learning process:
+
 In the next stage, we will try to use stable diffusion to replace VAE and to see if we can get better results with high-quality and with more flexible adjustments. Furthermore, employing stable diffusion can make the expression transfer more natural.
 
 Interface improvement:
+
 Our future intuitive interface ensures that anyone, regardless of their tech-savviness, can effortlessly create impressive Lego emoji transition photos, eliminating the need for cumbersome text descriptions and providing a more intuitive and straightforward means of expression.
 
 
