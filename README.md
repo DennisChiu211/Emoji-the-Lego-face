@@ -20,7 +20,7 @@ As a nod to the unexpected nature of AI creations, we've incorporated a Polaroid
 ![interface](https://i.imgur.com/aLB76bO.png=120x80)
 
 **Interface Video:**
-
+https://www.youtube.com/watch?v=DHJwchAW9Nw
 ![interface video](https://i.imgur.com/lGdirSi.gif)
 
 # Datasets 
