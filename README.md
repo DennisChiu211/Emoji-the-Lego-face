@@ -59,11 +59,11 @@ After training the VAE of lego faces and emojis, we randomly choose 2 spots from
 As you can see, the results of lego faces and emojis morhphing in VAE mode are not very satisfactory. Although most of the reconstructions of Lego faces and emojis are decent, the images obtained after the encoding and decoding process are not very clear. Therefore, the expression transformation for Lego characters also fails to achieve high-quality results.
 
 # Future outlook
-Machine learning process:
+**Machine learning process:**
 
 In the next stage, we will try to use stable diffusion to replace VAE and to see if we can get better results with high-quality and with more flexible adjustments. Furthermore, employing stable diffusion can make the expression transfer more natural.
 
-Interface improvement:
+**Interface improvement:**
 
 Our future intuitive interface ensures that anyone, regardless of their tech-savviness, can effortlessly create impressive Lego emoji transition photos, eliminating the need for cumbersome text descriptions and providing a more intuitive and straightforward means of expression.
 
