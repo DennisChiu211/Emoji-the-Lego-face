@@ -13,7 +13,6 @@ Our interface is designed to be simple and easy to use, allowing people of all a
 
 When we are selecting various options, a scrollable menu will provide a simple and clear way. Therefore, we have designed the interface in a slider style, where the left grid can be used to choose the Lego character whose expression you want to change, and the right side is for selecting the desired emoji expression.
 
-![Alt text](image link)
 
 # Datasets 
 In the first stage, we decided to use Variational Autoencoders as the ML model for training. We input the Lego face and emoji datasets into the same category for encoding, bringing both types of data into a shared latent space.
@@ -24,5 +23,5 @@ https://github.com/iechevarria/lego-face-VAE/blob/master/dataset.zip
 
 Emoji dataset:
 https://www.kaggle.com/datasets/subinium/emojiimage-dataset/data
-![plot] (https://imgur.com/MR0ENcr)
+![plot](https://imgur.com/MR0ENcr)
 
