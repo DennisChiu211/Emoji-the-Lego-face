@@ -20,7 +20,7 @@ As a nod to the unexpected nature of AI creations, we've incorporated a Polaroid
 ![interface](https://i.imgur.com/aLB76bO.png=120x80)
 
 **Interface Video:**
-[![interface video](https://i.imgur.com/dTUqZ3u.png)](https://www.youtube.com/watch?v=DHJwchAW9Nw&ab_channel=Jui-ChengChiu)
+[![interface video]([https://i.imgur.com/dTUqZ3u.png](https://im.ezgif.com/tmp/ezgif-1-52969fb237.gif))](https://www.youtube.com/watch?v=DHJwchAW9Nw&ab_channel=Jui-ChengChiu)
 
 # Datasets 
 In the first stage, we decided to use Variational Autoencoders as the ML model for training. Its because we want to realize how the latent space works, and how the images change in latent space. We input the Lego face and emoji datasets into the same category for encoding, bringing both types of data into a shared latent space.
