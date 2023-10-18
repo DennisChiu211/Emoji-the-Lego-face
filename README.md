@@ -22,5 +22,5 @@ Lego Face dataset:
 
 Emoji dataset:
 https://www.kaggle.com/datasets/subinium/emojiimage-dataset/data
-![Alt text] https://imgur.com/MR0ENcr
+![Alt text] (https://imgur.com/MR0ENcr)
 
