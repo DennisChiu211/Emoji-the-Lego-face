@@ -20,7 +20,7 @@ In the first stage, we decided to use Variational Autoencoders as the ML model f
 
 Lego Face dataset:
 https://github.com/iechevarria/lego-face-VAE/blob/master/dataset.zip
-![plot]()
+![plot](https://i.imgur.com/OUEzqBn.png)
 
 Emoji dataset:
 https://www.kaggle.com/datasets/subinium/emojiimage-dataset/data
