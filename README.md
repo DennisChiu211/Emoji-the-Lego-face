@@ -13,7 +13,7 @@ Our interface is designed to be simple and easy to use, allowing people of all a
 
 When we are selecting various options, a scrollable menu will provide a simple and clear way. Therefore, we have designed the interface in a slider style, where the left grid can be used to choose the Lego character whose expression you want to change, and the right side is for selecting the desired emoji expression.
 
-![plot|300*200](https://i.imgur.com/aLB76bO.png)
+![plot|120*80](https://i.imgur.com/aLB76bO.png)
 
 # Datasets 
 In the first stage, we decided to use Variational Autoencoders as the ML model for training. We input the Lego face and emoji datasets into the same category for encoding, bringing both types of data into a shared latent space.
