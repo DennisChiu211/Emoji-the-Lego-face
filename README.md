@@ -12,7 +12,9 @@ Hence, Our concept is to free users from the confines of text. We create an inte
 Our interface is designed to be simple and easy to use, allowing people of all ages to effortlessly create impressive emoji transition photos without the need for complex text descriptions.
 
 The UI/UX design for our Lego Emoji Expression Generator is a delightful blend of creativity and nostalgia, tailored to capture the playful and colorful essence of Lego. 
+
 With a design that mirrors a combination of a slot machine and a Polaroid camera, we aim to infuse a sense of excitement and anticipation into the user experience. To create their unique Lego emoji faces, users simply click the slot machine-like handle, setting the wheels of creativity in motion. 
+
 As a nod to the unexpected nature of AI creations, we've incorporated a Polaroid development delay of one second, building anticipation as users eagerly await their results. This delay not only adds an element of surprise but also contributes to the fun, whimsical vibe we want to convey. Once the Lego emoji face is generated, a charming Lego family pops up, encouraging users to explore and experiment with the endless possibilities of our design.
 
 ![interface](https://i.imgur.com/aLB76bO.png=120x80)
