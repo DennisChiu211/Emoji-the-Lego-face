@@ -48,6 +48,8 @@ Restruction:
 Though the results are not very good, but we can still generate the outputs that has most of features of original inputs.
 
 # Morphing
-
 After training the VAE of lego faces and emojis, we randomly choose 2 spots from lego faces and emojis in latent space and plot 10 new faces on the the line connecting these two points. Creating a morphing result between two faces.
 ![morphing](https://i.imgur.com/z0oLSh7.png)
+
+# Conclusion
+
