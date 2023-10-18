@@ -21,7 +21,9 @@ Lego Face dataset:
 https://github.com/iechevarria/lego-face-VAE/blob/master/dataset.zip
 
 
+
 Emoji dataset:
 https://www.kaggle.com/datasets/subinium/emojiimage-dataset/data
-![plot](https://imgur.com/MR0ENcr)
+
+![plot]([https://imgur.com/MR0ENcr](https://imgur.com/a/OhwPM9q)https://imgur.com/a/OhwPM9q)
 
