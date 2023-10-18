@@ -13,19 +13,36 @@ Our interface is designed to be simple and easy to use, allowing people of all a
 
 When we are selecting various options, a scrollable menu will provide a simple and clear way. Therefore, we have designed the interface in a slider style, where the left grid can be used to choose the Lego character whose expression you want to change, and the right side is for selecting the desired emoji expression.
 
-![plot](https://i.imgur.com/aLB76bO.png=120x80)
+![interface](https://i.imgur.com/aLB76bO.png=120x80)
 
 # Datasets 
-In the first stage, we decided to use Variational Autoencoders as the ML model for training. We input the Lego face and emoji datasets into the same category for encoding, bringing both types of data into a shared latent space.
+In the first stage, we decided to use Variational Autoencoders as the ML model for training. Its because we want to realize how the latent space works, and how the images change in latent space. We input the Lego face and emoji datasets into the same category for encoding, bringing both types of data into a shared latent space.
 
 Lego Face dataset:
 https://github.com/iechevarria/lego-face-VAE/blob/master/dataset.zip
-![plot](https://i.imgur.com/OUEzqBn.png)
+![lego_faces](https://i.imgur.com/OUEzqBn.png)
 
 Emoji dataset:
 https://www.kaggle.com/datasets/subinium/emojiimage-dataset/data
-![plot](https://i.imgur.com/MR0ENcr.png)
+![emojis](https://i.imgur.com/MR0ENcr.png)
+
+Then we selected clear images from these two datasets and combined them to create a dataset containing 1994 images.
 
 # VAE training
-We refer to and modify the VAE model in David Foster's excellent book Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. 
+We refer to and modify the VAE model in David Foster's excellent book Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. Our program has been uploaded in this Files as lego_face_emoji.ipynb.
 
+After adjusting parameters and training for plenty of times, we had so far best result of morhing lego faces and emojis. The below chart is the Kl_loss of this training. We train 250 epochs with BATCH_SIZE = 512 for 1 hour. The KL loss tends to stabilize around 14 to 15 as the number of epochs increases to 250.
+
+![Kl_loss](https://i.imgur.com/lH3FBoQ.png)
+
+Training results:
+Lastent space distribution:
+![distribution](https://i.imgur.com/VO7CHtG.png)
+We print the first 50 Guassian distribution with latent space result
+
+And the following pictures are the new faces we encode from the latent space:
+![newface](https://i.imgur.com/bYZnT0M.png)
+
+Restruction:
+![reconstruction](https://i.imgur.com/5UAcMcO.png)
+Though the results are not very good, but we can still generate the outputs that has most of features of original inputs.
